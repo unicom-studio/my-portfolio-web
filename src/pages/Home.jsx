@@ -9,11 +9,11 @@ export default function Home() {
       <div className="hero-wrapper animate-slide">
         
         <div className="hero-content">
-          <span className="hero-subtitle">Undergraduate Software & Intelligent Systems</span>
           <h1 className="hero-title">
             Hi, I'm <br />
             <span>Kavindu Chirath</span> <span className="wave-emoji">👋</span>
           </h1>
+          <span className="hero-subtitle">Undergraduate Software & Intelligent Systems</span>
           <p className="hero-description">
             IT Student & Aspiring Software Engineer with experience in Java programming, Full-Stack Web Application development, and RESTful APIs using modern frameworks.
           </p>
