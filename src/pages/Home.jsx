@@ -81,7 +81,7 @@ export default function Home() {
 
         <div className="hero-image-area">
           <div className="profile-img-container">
-            <img src="https://drive.google.com/file/d/16ip2h4FGpv4uQf1_H8tbCvOaM9mg30vW/view?usp=drive_link" alt="Kavindu Chirath Profile" className="profile-pic" />
+            <img src="https://lh3.googleusercontent.com/d/16ip2h4FGpv4uQf1_H8tbCvOaM9mg30vW" alt="Kavindu Chirath Profile" className="profile-pic" />
           </div>
         </div>
 
